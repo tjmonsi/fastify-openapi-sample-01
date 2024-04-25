@@ -1,0 +1,19 @@
+{
+  "name": "fastify-openapi-sample-01",
+  "version": "0.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TJ Monserrat",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.26.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
